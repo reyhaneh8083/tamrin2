@@ -1,0 +1,20 @@
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\bin\Debug\netcoreapp3.1\reyhaneh rajaee.exe
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\bin\Debug\netcoreapp3.1\reyhaneh rajaee.deps.json
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\bin\Debug\netcoreapp3.1\reyhaneh rajaee.runtimeconfig.json
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\bin\Debug\netcoreapp3.1\reyhaneh rajaee.runtimeconfig.dev.json
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\bin\Debug\netcoreapp3.1\reyhaneh rajaee.dll
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\bin\Debug\netcoreapp3.1\reyhaneh rajaee.pdb
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.csproj.AssemblyReference.cache
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee_MarkupCompile.cache
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee_MarkupCompile.lref
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.g.resources
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.AssemblyInfoInputs.cache
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.AssemblyInfo.cs
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.csproj.CoreCompileInputs.cache
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.dll
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.pdb
+C:\Users\amir pc\source\repos\reyhaneh rajaee\reyhaneh rajaee\obj\Debug\netcoreapp3.1\reyhaneh rajaee.genruntimeconfig.cache

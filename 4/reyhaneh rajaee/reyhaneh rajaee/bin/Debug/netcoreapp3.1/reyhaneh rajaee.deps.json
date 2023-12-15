@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "reyhaneh rajaee/1.0.0": {
+        "runtime": {
+          "reyhaneh rajaee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reyhaneh rajaee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

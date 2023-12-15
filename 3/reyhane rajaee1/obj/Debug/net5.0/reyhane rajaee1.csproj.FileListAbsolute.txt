@@ -1,0 +1,16 @@
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\reyhane rajaee1.exe
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\reyhane rajaee1.deps.json
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\reyhane rajaee1.runtimeconfig.json
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\reyhane rajaee1.runtimeconfig.dev.json
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\reyhane rajaee1.dll
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\ref\reyhane rajaee1.dll
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\bin\Debug\net5.0\reyhane rajaee1.pdb
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.csproj.AssemblyReference.cache
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.AssemblyInfoInputs.cache
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.AssemblyInfo.cs
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.csproj.CoreCompileInputs.cache
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.dll
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\ref\reyhane rajaee1.dll
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.pdb
+C:\Users\amir pc\source\repos\reyhane rajaee1\reyhane rajaee1\obj\Debug\net5.0\reyhane rajaee1.genruntimeconfig.cache
